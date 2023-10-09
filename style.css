@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #ff2600;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align:justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-indent: 50px;
+}
+
+body {
+    background-color: bisque;
+    
+}
+
+footer {
+    background-color: #f5ae2a;
+    
+}
+
+input {
+    margin-left: 850px;
+    background-color: #ffea00;
+    color: #000000;
+    
+}
